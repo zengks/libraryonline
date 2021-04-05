@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/libraryonline/static/css/main.f5650d2e.chunk.css",
+    "main.js": "/libraryonline/static/js/main.bde92871.chunk.js",
+    "main.js.map": "/libraryonline/static/js/main.bde92871.chunk.js.map",
+    "runtime-main.js": "/libraryonline/static/js/runtime-main.aaecce2e.js",
+    "runtime-main.js.map": "/libraryonline/static/js/runtime-main.aaecce2e.js.map",
+    "static/js/2.0384977a.chunk.js": "/libraryonline/static/js/2.0384977a.chunk.js",
+    "static/js/2.0384977a.chunk.js.map": "/libraryonline/static/js/2.0384977a.chunk.js.map",
+    "index.html": "/libraryonline/index.html",
+    "precache-manifest.8ed9593e40ff44a7e832fd6f4094489a.js": "/libraryonline/precache-manifest.8ed9593e40ff44a7e832fd6f4094489a.js",
+    "service-worker.js": "/libraryonline/service-worker.js",
+    "static/css/main.f5650d2e.chunk.css.map": "/libraryonline/static/css/main.f5650d2e.chunk.css.map",
+    "static/js/2.0384977a.chunk.js.LICENSE.txt": "/libraryonline/static/js/2.0384977a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aaecce2e.js",
+    "static/js/2.0384977a.chunk.js",
+    "static/css/main.f5650d2e.chunk.css",
+    "static/js/main.bde92871.chunk.js"
+  ]
+}
