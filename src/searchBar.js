@@ -73,6 +73,7 @@ class SearchBar extends Component {
                         {this.state.items.map(item => {
                                 let image;
                                 let imageLink = item.volumeInfo.imageLinks;
+                                let previewLink = item.volumeInfo.previewLink;
                                 if(typeof(imageLink) == 'undefined') {
                                     image = <img src='' alt={item.volumeInfo.title}></img>;
                                 }else{
@@ -87,7 +88,7 @@ class SearchBar extends Component {
 
                                         <div className="bookDetail">
                                             <div className="bookTitle">
-                                                <a href="/">{item.volumeInfo.title}</a>
+                                                <a href= {previewLink} target="_blank">{item.volumeInfo.title}</a>
                                             </div>
 
                                             <div className="bookCate">
