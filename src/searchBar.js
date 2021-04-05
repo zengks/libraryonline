@@ -9,7 +9,7 @@ class SearchBar extends Component {
         super(props);
         this.state = {
             items: [],
-            title: "Harry Potter",
+            title: "Michael Jackson",
             hasError: false,
             bookFound: true
 
